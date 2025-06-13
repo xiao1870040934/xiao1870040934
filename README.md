@@ -69,4 +69,4 @@ Here are some ideas to get you started:
 
 <br>
 
-![](https://github.com/xiao1870040934/xiao1870040934/blob/main/background.png)
+![](https://github.com/xiao1870040934/xiao1870040934/blob/main/background.jpg)
