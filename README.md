@@ -68,3 +68,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discord.com)
 
 <br>
+
+![](https://github.com/xiao1870040934/xiao1870040934/blob/main/background.png)
